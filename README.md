@@ -1,27 +1,45 @@
-# Parking4
+# Bienvenidos al software Parking4
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.11.
+A continuación se detalla la información del proyecto sobre el desarrollo del sitio web Parking4:
 
-## Development server
+# SPRINT 1 - Definiendo los objetivos del proyecto
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Roles
 
-## Code scaffolding
+### Función de roles:
+- **SCRUM MASTER**: Lidera al equipo desarrollador durante todo el proyecto, gestionando el proceso Scrum y ayudando a eliminar impedimentos que puedan afectar a la entrega del producto. Para este caso, también cumple los roles del TEAM.
+- **TEAM**: Se encarga del desarrollo del software y su funcionamiento a partir de la estimación de Historias de Usuario que se elabora de manera conjunta, además debe crear los Sprints del Proyecto.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Asignación de roles:
+|#     |Rol           |Persona                        |
+|------|--------------|-------------------------------|
+|1     |Scrum Master  |María Paula Rodriguez Jerez    |
+|2     |Team          |Camilo de jesus Amaya barrero  |
+|3     |Team          |Samuel Meza Perez              |
+|4     |Team          |Jefferson Aroni Garcés Torres  |
+|5     |Team          |Alvaro Hernan Escobar Beltran  |
+|6     |Team          |Cristian enrique Ramirez bello |
 
-## Build
+## Objetivo
+Desarrollar la aplicación web Parking4 a través del stack MEAN que permita la visualización de plazas disponibles y que calcule el costo del parqueadero en tiempo real.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Misión
+Facilitar la gestión de plazas de parqueadero no solo al vigilante en el cálculo del precio, sino también al cliente al brindarle la posibilidad de buscar las plazas disponibles, evitando pérdidas de tiempo.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Bakclog
+|Id          |Nombre                        |
+|------------|------------------------------|
+|[BGP-6](https://paularoje.atlassian.net/browse/BGP-6?atlOrigin=eyJpIjoiYzgwYTQ0ZjEyNzQzNGJhN2JmNjEyZTM0NmRhZWZhNjIiLCJwIjoic2hlZXRzLWppcmEifQ)|Como cliente quiero visualizar las plazas disponibles para saber si puedo ir a ese parqueadero|
+|[BGP-7](https://paularoje.atlassian.net/browse/BGP-7?atlOrigin=eyJpIjoiYzgwYTQ0ZjEyNzQzNGJhN2JmNjEyZTM0NmRhZWZhNjIiLCJwIjoic2hlZXRzLWppcmEifQ)|Como cliente quiero poderme loguear en la página web para poder visualizar el tiempo y costo de parqueo que he consumido|
+|[BGP-13](https://paularoje.atlassian.net/browse/BGP-13?atlOrigin=eyJpIjoiYzgwYTQ0ZjEyNzQzNGJhN2JmNjEyZTM0NmRhZWZhNjIiLCJwIjoic2hlZXRzLWppcmEifQ)|Como vigilante necesito loguearme para poder manipular los datos del software|
+|[BGP-8](https://paularoje.atlassian.net/browse/BGP-8?atlOrigin=eyJpIjoiYzgwYTQ0ZjEyNzQzNGJhN2JmNjEyZTM0NmRhZWZhNjIiLCJwIjoic2hlZXRzLWppcmEifQ)|Como vigilante quiero visualizar el detalle de las plazas que están disponibles para poderlas asignar a los cliente|
+|[BGP-9](https://paularoje.atlassian.net/browse/BGP-9?atlOrigin=eyJpIjoiYzgwYTQ0ZjEyNzQzNGJhN2JmNjEyZTM0NmRhZWZhNjIiLCJwIjoic2hlZXRzLWppcmEifQ)|Como vigilante quiero registrar al cliente y al vehiculo que ingresa este al parqueadero para poderle brindar el servicio|
+|[BGP-10](https://paularoje.atlassian.net/browse/BGP-10?atlOrigin=eyJpIjoiYzgwYTQ0ZjEyNzQzNGJhN2JmNjEyZTM0NmRhZWZhNjIiLCJwIjoic2hlZXRzLWppcmEifQ)|Como vigilante quiero poder registrar la hora de llegada y de salida de los vehiculos para poder cobrar el servicio de parqueadero|
+|[BGP-11](https://paularoje.atlassian.net/browse/BGP-11?atlOrigin=eyJpIjoiYzgwYTQ0ZjEyNzQzNGJhN2JmNjEyZTM0NmRhZWZhNjIiLCJwIjoic2hlZXRzLWppcmEifQ)|Como vigilante quiero poder generar un ticket con la información de llegada del vehiculo y los costos que maneja el parqueadero para darselo al cliente|
+|[BGP-12](https://paularoje.atlassian.net/browse/BGP-12?atlOrigin=eyJpIjoiYzgwYTQ0ZjEyNzQzNGJhN2JmNjEyZTM0NmRhZWZhNjIiLCJwIjoic2hlZXRzLWppcmEifQ)|Como vigilante quiero poder generar un ticket de salida con el tiempo y el costo generado del parqueo para darselo al cliente|
 
-## Running end-to-end tests
+## Evidencias de participación del equipo
+![Alt text](/relative/path/to/Reunión1-Sprint1.jpeg?raw=true "Evidencia de reunión")
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Modelo para el frontend
