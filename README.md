@@ -2,15 +2,15 @@
 
 A continuación se detalla la información del proyecto sobre el desarrollo del sitio web Parking4:
 
-# SPRINT 1 - Definiendo los objetivos del proyecto
+## SPRINT 1 - Definiendo los objetivos del proyecto
 
-## Roles
+### Roles
 
-### Función de roles:
+#### Función de roles:
 - **SCRUM MASTER**: Lidera al equipo desarrollador durante todo el proyecto, gestionando el proceso Scrum y ayudando a eliminar impedimentos que puedan afectar a la entrega del producto. Para este caso, también cumple los roles del TEAM.
 - **TEAM**: Se encarga del desarrollo del software y su funcionamiento a partir de la estimación de Historias de Usuario que se elabora de manera conjunta, además debe crear los Sprints del Proyecto.
 
-### Asignación de roles:
+#### Asignación de roles:
 |#     |Rol           |Persona                        |
 |------|--------------|-------------------------------|
 |1     |Scrum Master  |María Paula Rodriguez Jerez    |
@@ -20,16 +20,16 @@ A continuación se detalla la información del proyecto sobre el desarrollo del 
 |5     |Team          |Alvaro Hernan Escobar Beltran  |
 |6     |Team          |Cristian enrique Ramirez bello |
 
-## Objetivo
+### Objetivo
 Desarrollar la aplicación web Parking4 a través del stack MEAN que permita la visualización de plazas disponibles y que calcule el costo del parqueadero en tiempo real.
 
-## Misión
+### Misión
 Facilitar la gestión de plazas de parqueadero no solo al vigilante en el cálculo del precio, sino también al cliente al brindarle la posibilidad de buscar las plazas disponibles, evitando pérdidas de tiempo.
 
 
-## Bakclog
-|Id          |Nombre                        |
-|------------|------------------------------|
+### Bakclog
+|Id            |Nombre                        |
+|--------------|------------------------------|
 |[BGP-6](https://paularoje.atlassian.net/browse/BGP-6?atlOrigin=eyJpIjoiYzgwYTQ0ZjEyNzQzNGJhN2JmNjEyZTM0NmRhZWZhNjIiLCJwIjoic2hlZXRzLWppcmEifQ)|Como cliente quiero visualizar las plazas disponibles para saber si puedo ir a ese parqueadero|
 |[BGP-7](https://paularoje.atlassian.net/browse/BGP-7?atlOrigin=eyJpIjoiYzgwYTQ0ZjEyNzQzNGJhN2JmNjEyZTM0NmRhZWZhNjIiLCJwIjoic2hlZXRzLWppcmEifQ)|Como cliente quiero poderme loguear en la página web para poder visualizar el tiempo y costo de parqueo que he consumido|
 |[BGP-13](https://paularoje.atlassian.net/browse/BGP-13?atlOrigin=eyJpIjoiYzgwYTQ0ZjEyNzQzNGJhN2JmNjEyZTM0NmRhZWZhNjIiLCJwIjoic2hlZXRzLWppcmEifQ)|Como vigilante necesito loguearme para poder manipular los datos del software|
@@ -39,7 +39,7 @@ Facilitar la gestión de plazas de parqueadero no solo al vigilante en el cálcu
 |[BGP-11](https://paularoje.atlassian.net/browse/BGP-11?atlOrigin=eyJpIjoiYzgwYTQ0ZjEyNzQzNGJhN2JmNjEyZTM0NmRhZWZhNjIiLCJwIjoic2hlZXRzLWppcmEifQ)|Como vigilante quiero poder generar un ticket con la información de llegada del vehiculo y los costos que maneja el parqueadero para darselo al cliente|
 |[BGP-12](https://paularoje.atlassian.net/browse/BGP-12?atlOrigin=eyJpIjoiYzgwYTQ0ZjEyNzQzNGJhN2JmNjEyZTM0NmRhZWZhNjIiLCJwIjoic2hlZXRzLWppcmEifQ)|Como vigilante quiero poder generar un ticket de salida con el tiempo y el costo generado del parqueo para darselo al cliente|
 
-## Evidencias de participación del equipo
-![Alt text](/relative/path/to/Reunión1-Sprint1.jpeg?raw=true "Evidencia de reunión")
+### Evidencias de participación del equipo
+[a relative link](Reunión1-Sprint1.jpeg)
 
-## Modelo para el frontend
+### Modelo para el frontend
