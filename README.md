@@ -40,6 +40,4 @@ Facilitar la gestión de plazas de parqueadero no solo al vigilante en el cálcu
 |[BGP-12](https://paularoje.atlassian.net/browse/BGP-12?atlOrigin=eyJpIjoiYzgwYTQ0ZjEyNzQzNGJhN2JmNjEyZTM0NmRhZWZhNjIiLCJwIjoic2hlZXRzLWppcmEifQ)|Como vigilante quiero poder generar un ticket de salida con el tiempo y el costo generado del parqueo para darselo al cliente|
 
 ### Evidencias de participación del equipo
-[a relative link](Reunión1-Sprint1.jpeg)
-
-### Modelo para el frontend
+[Screenshot de la Reunión 1 - Sprint 1](Reunión1-Sprint1.jpeg)
