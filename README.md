@@ -46,6 +46,7 @@ Facilitar la gestión de plazas de parqueadero no solo al vigilante en el cálcu
 
 ### Wireframe
 [wireframe 1 - Parking4](wireframe.jpeg)
+
 [wireframe 2 - Parking4](https://correouisedu-my.sharepoint.com/:w:/g/personal/maria_rodriguez24_correo_uis_edu_co/EdWzNoQ87tJLs8uK_Bv7PDUBtirfhe5rbWM2kIR_XhXsqA)
 
 ### Evidencias de participación del equipo
