@@ -27,7 +27,7 @@ Desarrollar la aplicación web Parking4 a través del stack MEAN que permita la 
 Facilitar la gestión de plazas de parqueadero no solo al vigilante en el cálculo del precio, sino también al cliente al brindarle la posibilidad de buscar las plazas disponibles, evitando pérdidas de tiempo.
 
 
-### Bakclog
+### Backlog
 |Id            |Nombre                        |
 |--------------|------------------------------|
 |[BGP-6](https://paularoje.atlassian.net/browse/BGP-6?atlOrigin=eyJpIjoiYzgwYTQ0ZjEyNzQzNGJhN2JmNjEyZTM0NmRhZWZhNjIiLCJwIjoic2hlZXRzLWppcmEifQ)|Como cliente quiero visualizar las plazas disponibles para saber si puedo ir a ese parqueadero|
