@@ -41,3 +41,12 @@ Facilitar la gestión de plazas de parqueadero no solo al vigilante en el cálcu
 
 ### Evidencias de participación del equipo
 [Screenshot de la Reunión 1 - Sprint 1](Reunión1-Sprint1.jpeg)
+
+## SPRINT 2 - Definiendo los objetivos del proyecto
+
+### Wireframe
+[wireframe 1 - Parking4](wireframe.jpeg)
+[wireframe 2 - Parking4](https://correouisedu-my.sharepoint.com/:w:/g/personal/maria_rodriguez24_correo_uis_edu_co/EdWzNoQ87tJLs8uK_Bv7PDUBtirfhe5rbWM2kIR_XhXsqA)
+
+### Evidencias de participación del equipo
+[Screenshot de la Reunión 2 - Sprint 2](Reunión2-Sprint2.jpeg)
