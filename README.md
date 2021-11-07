@@ -18,7 +18,6 @@ A continuación se detalla la información del proyecto sobre el desarrollo del 
 |3     |Team          |Samuel Meza Perez              |
 |4     |Team          |Jefferson Aroni Garcés Torres  |
 |5     |Team          |Alvaro Hernan Escobar Beltran  |
-|6     |Team          |Cristian enrique Ramirez bello |
 
 ### Objetivo
 Desarrollar la aplicación web Parking4 a través del stack MEAN que permita la visualización de plazas disponibles y que calcule el costo del parqueadero en tiempo real.
