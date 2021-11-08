@@ -49,7 +49,7 @@ Facilitar la gestión de plazas de parqueadero no solo al vigilante en el cálcu
 [wireframe 2 - Parking4](https://correouisedu-my.sharepoint.com/:w:/g/personal/maria_rodriguez24_correo_uis_edu_co/EdWzNoQ87tJLs8uK_Bv7PDUBtirfhe5rbWM2kIR_XhXsqA)
 
 ### Evidencias de la instalación de Angular y Angular Material
-- **Paula:** [Angular](Pantallazos Sprint 2/Paula/EvidenciaAngular.png)
+- **Paula:** [Angular](https://github.com/Paularoje/Parking4/blob/420e6d0e47304b407e161a97aea1959370083edc/Pantallazos%20Sprint%202/Paula/EvidenciaAngular.png) y [Angular Material](https://github.com/Paularoje/Parking4/blob/420e6d0e47304b407e161a97aea1959370083edc/Pantallazos%20Sprint%202/Paula/EvidenciaAngularMaterial.png)
 
 ### Evidencias de participación del equipo
 [Screenshot de la Reunión 2 - Sprint 2](Reunión2-Sprint2.jpeg)
