@@ -18,7 +18,6 @@ A continuación se detalla la información del proyecto sobre el desarrollo del 
 |3     |Team          |Samuel Meza Perez              |
 |4     |Team          |Jefferson Aroni Garcés Torres  |
 |5     |Team          |Alvaro Hernan Escobar Beltran  |
-|6     |Team          |Cristian enrique Ramirez bello |
 
 ### Objetivo
 Desarrollar la aplicación web Parking4 a través del stack MEAN que permita la visualización de plazas disponibles y que calcule el costo del parqueadero en tiempo real.
@@ -41,6 +40,30 @@ Facilitar la gestión de plazas de parqueadero no solo al vigilante en el cálcu
 
 ### Evidencias de participación del equipo
 [Screenshot de la Reunión 1 - Sprint 1](Reunión1-Sprint1.jpeg)
+
+
+
+## SPRINT 2 - Definiendo los objetivos del proyecto
+
+
+### Diagrama de clases 
+![diagrama](https://user-images.githubusercontent.com/90294992/141039598-c1744f8f-b8a4-4061-8905-48ecc3638884.jpg)
+
+
+### Wireframe
+[wireframe 1 - Parking4](wireframe.jpeg)
+
+[wireframe 2 - Parking4](https://correouisedu-my.sharepoint.com/:w:/g/personal/maria_rodriguez24_correo_uis_edu_co/EdWzNoQ87tJLs8uK_Bv7PDUBtirfhe5rbWM2kIR_XhXsqA)
+
+### Evidencias de la instalación de Angular y Angular Material
+- **Paula:** [Angular](https://github.com/Paularoje/Parking4/blob/420e6d0e47304b407e161a97aea1959370083edc/Pantallazos%20Sprint%202/Paula/EvidenciaAngular.png) y [Angular Material](https://github.com/Paularoje/Parking4/blob/420e6d0e47304b407e161a97aea1959370083edc/Pantallazos%20Sprint%202/Paula/EvidenciaAngularMaterial.png)
+
+### Evidencias de participación del equipo
+[Screenshot de la Reunión 2 - Sprint 2](Reunión2-Sprint2.jpeg)
+
+Evidencias reunión 09nov2021![WhatsApp Image 2021-11-09 at 20 55 52](https://user-images.githubusercontent.com/93131699/141037729-b9cf38e6-3c86-44fd-a12d-47787ac3036e.jpeg)
+
+
 ![NodejsConsole](https://user-images.githubusercontent.com/93629373/141038510-7f9fec6a-9b7d-4020-b226-e9d31da1ea24.jpeg)
 ![NodejsOrdenador](https://user-images.githubusercontent.com/93629373/141038516-6d1812f6-3ff5-4e4f-9def-21c4f82e7503.jpeg)
-
+=======
