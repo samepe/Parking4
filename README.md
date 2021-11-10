@@ -18,7 +18,6 @@ A continuación se detalla la información del proyecto sobre el desarrollo del 
 |3     |Team          |Samuel Meza Perez              |
 |4     |Team          |Jefferson Aroni Garcés Torres  |
 |5     |Team          |Alvaro Hernan Escobar Beltran  |
-|6     |Team          |Cristian enrique Ramirez bello |
 
 ### Objetivo
 Desarrollar la aplicación web Parking4 a través del stack MEAN que permita la visualización de plazas disponibles y que calcule el costo del parqueadero en tiempo real.
@@ -41,3 +40,16 @@ Facilitar la gestión de plazas de parqueadero no solo al vigilante en el cálcu
 
 ### Evidencias de participación del equipo
 [Screenshot de la Reunión 1 - Sprint 1](Reunión1-Sprint1.jpeg)
+
+## SPRINT 2 - Definiendo los objetivos del proyecto
+
+### Wireframe
+[wireframe 1 - Parking4](wireframe.jpeg)
+
+[wireframe 2 - Parking4](https://correouisedu-my.sharepoint.com/:w:/g/personal/maria_rodriguez24_correo_uis_edu_co/EdWzNoQ87tJLs8uK_Bv7PDUBtirfhe5rbWM2kIR_XhXsqA)
+
+### Evidencias de la instalación de Angular y Angular Material
+- **Paula:** [Angular](https://github.com/Paularoje/Parking4/blob/420e6d0e47304b407e161a97aea1959370083edc/Pantallazos%20Sprint%202/Paula/EvidenciaAngular.png) y [Angular Material](https://github.com/Paularoje/Parking4/blob/420e6d0e47304b407e161a97aea1959370083edc/Pantallazos%20Sprint%202/Paula/EvidenciaAngularMaterial.png)
+
+### Evidencias de participación del equipo
+[Screenshot de la Reunión 2 - Sprint 2](Reunión2-Sprint2.jpeg)
