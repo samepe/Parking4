@@ -56,3 +56,4 @@ Facilitar la gestión de plazas de parqueadero no solo al vigilante en el cálcu
 
 Evidencias reunión 09nov2021![WhatsApp Image 2021-11-09 at 20 55 52](https://user-images.githubusercontent.com/93131699/141037729-b9cf38e6-3c86-44fd-a12d-47787ac3036e.jpeg)
 
+![Robo 3T](https://user-images.githubusercontent.com/93149762/141039228-4a374297-2cc9-4f55-9acd-f295620370c1.jpeg)
