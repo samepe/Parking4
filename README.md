@@ -56,18 +56,17 @@ Facilitar la gestión de plazas de parqueadero no solo al vigilante en el cálcu
 [wireframe 2 - Parking4](https://correouisedu-my.sharepoint.com/:w:/g/personal/maria_rodriguez24_correo_uis_edu_co/EdWzNoQ87tJLs8uK_Bv7PDUBtirfhe5rbWM2kIR_XhXsqA)
 
 ### Evidencias de la instalación de Angular y Angular Material
-- **Paula:** [Angular](https://github.com/Paularoje/Parking4/blob/420e6d0e47304b407e161a97aea1959370083edc/Pantallazos%20Sprint%202/Paula/EvidenciaAngular.png) y [Angular Material](https://github.com/Paularoje/Parking4/blob/420e6d0e47304b407e161a97aea1959370083edc/Pantallazos%20Sprint%202/Paula/EvidenciaAngularMaterial.png)
+![EvidenciaAngular](https://user-images.githubusercontent.com/93130943/141044598-92bc2af8-310f-4894-abb1-cf5e77ecdab5.png)
+![EvidenciaAngularMaterial](https://user-images.githubusercontent.com/93130943/141044600-fe07332d-f270-47a1-80c1-fe07c1bc79c8.png)
+
+### Instalacion de  Node js
+![NodejsConsole](https://user-images.githubusercontent.com/93629373/141038510-7f9fec6a-9b7d-4020-b226-e9d31da1ea24.jpeg)
+![NodejsOrdenador](https://user-images.githubusercontent.com/93629373/141038516-6d1812f6-3ff5-4e4f-9def-21c4f82e7503.jpeg)
+=======
+### Instalacion de Robo 3T
+![image](https://user-images.githubusercontent.com/93149762/141041155-fea0998d-2403-4323-a01b-b5ee8f756632.png)
 
 ### Evidencias de participación del equipo
 [Screenshot de la Reunión 2 - Sprint 2](Reunión2-Sprint2.jpeg)
 
 Evidencias reunión 09nov2021![WhatsApp Image 2021-11-09 at 20 55 52](https://user-images.githubusercontent.com/93131699/141037729-b9cf38e6-3c86-44fd-a12d-47787ac3036e.jpeg)
-
-Instalacion de  Node js
-![NodejsConsole](https://user-images.githubusercontent.com/93629373/141038510-7f9fec6a-9b7d-4020-b226-e9d31da1ea24.jpeg)
-![NodejsOrdenador](https://user-images.githubusercontent.com/93629373/141038516-6d1812f6-3ff5-4e4f-9def-21c4f82e7503.jpeg)
-=======
-Instalacion de Robo 3T
-![image](https://user-images.githubusercontent.com/93149762/141041155-fea0998d-2403-4323-a01b-b5ee8f756632.png)
-
-Prueba
