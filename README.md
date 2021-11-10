@@ -43,6 +43,11 @@ Facilitar la gestión de plazas de parqueadero no solo al vigilante en el cálcu
 
 ## SPRINT 2 - Definiendo los objetivos del proyecto
 
+
+### Diagrama de clases 
+![diagrama](https://user-images.githubusercontent.com/90294992/141039598-c1744f8f-b8a4-4061-8905-48ecc3638884.jpg)
+
+
 ### Wireframe
 [wireframe 1 - Parking4](wireframe.jpeg)
 
