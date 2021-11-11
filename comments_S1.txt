@@ -1,0 +1,13 @@
+Chicos a continuación les comparto algunos comentarios con respecto al sprint 1, este feedback no afecta la nota del sprint:
+
+1. Recuerden que el objetivo idealmente debe tener un enfoque comercial, para ello, es importante no comenzar con un verbo, como nos han enseñado en la universidad. Una forma de hacer esto, es comenzar en vez de un verbo, empezar con el nombre del proyecto, algo como:
+
+"Parking4 es una aplicación web que te permite visualizar las plazas disponibles en tu parqueadero y te ayuda a calcular el costo en tiempo real"
+
+2. La misión también está muy cuadrada, de nuevo, no comenzar con un verbo en infinitivo, todo lo contrario, hay que conjugar el verbo, por ejemplo:
+
+"Facilitamos la gesión de plazas de tu parqueadero, no solo para el cálculo del precio que realiza el vigilante sino también, al cliente..."
+
+De resto está super.
+
+3. El product backlog está super bien chicos! Espero que esté evolucionando en el paso de estos sprints pero se nota la idea y la organización. Ese es el objetivo del product backlog.
