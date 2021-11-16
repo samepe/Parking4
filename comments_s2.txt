@@ -1,0 +1,18 @@
+Chicos a continuación les comparto algunos comentarios con respecto al sprint 2:
+
+1. Analizando el diagrama de clases encontré algunos elementos que no son muy claros:
+  a. En cliente es necesario tener en campos diferentes los nombres y los apellidos? De pronto no sería mejor tener un solo campo para ello?
+  b. El tipo de abono será un string? o será una relación a otra entidad? en caso de ser así, no encontraría la descripción de la entidad tipo_abono.
+  c. Un cliente solo puede tener un vehiculo al tiempo? no podría darse la situación de que alguien tenga dos vehículos en el parqueadero?}
+  d. El campo Tipo_Vehiculo es una relación a otra entidad? En caso de ser así, no se visualiza en el gráfico tal entidad.
+  e. El número de la plaza no debería estar en la entidad vehículo? Dado que un vehículo solo puede estar en una plaza al mismo tiempo? Bajo la estructura definida en el diagrama, podría tenerse por ejemplo, el vehículo 1 en la plaza 1 y el vehículo 2 en la plaza 1.
+  d. Cuál es la diferencia entre id_plaza y N_puesto?
+  f. El tipo de plaza a que haría referencia? sería esto una relación a otra entidad? en caso de ser así, no se evidencia la otra entidad.
+  g. Que tal si le cambiamos los nombres a las entidades por algo mas claro? La relación con el = no es muy evidente, por ejemplo, la entidad Pedido=Venta podría llamarse Ticket.
+  h. Bajo la estructura descrita, en la relación Pedido=Venta se puede omitir el campo id_plaza dado que si quisieramos saber la plaza, con el id_cliente sabríamos el vehículo y con el vehículo sabríamos la plaza.
+
+Siendo así chicos, les recomiendo que refinen un poco más el diagrama de clases, si hay dudas con algo por favor las solucionamos en el grupo de Whatsapp.
+
+2. Se evidencian los wireframes y eso es bastante positivo chicos. Muy buen trabajo.
+
+3. Los pantallazos de la instalación solo se evidencian los de 1 persona.
