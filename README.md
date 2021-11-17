@@ -20,13 +20,12 @@ A continuación se detalla la información del proyecto sobre el desarrollo del 
 |5     |Team          |Alvaro Hernan Escobar Beltran  |
 
 ### Objetivo
-Desarrollar la aplicación web Parking4 a través del stack MEAN que permita la visualización de plazas disponibles y que calcule el costo del parqueadero en tiempo real.
+Parking4 es una aplicación web que te permite visualizar las plazas disponibles en tu parqueadero y te ayuda a calcular el costo en tiempo real.
 
 ### Misión
-Facilitar la gestión de plazas de parqueadero no solo al vigilante en el cálculo del precio, sino también al cliente al brindarle la posibilidad de buscar las plazas disponibles, evitando pérdidas de tiempo.
+Facilitamos la gesión de plazas de tu parqueadero, no solo para el cálculo del precio que realiza el vigilante sino también, se le brinda al cliente la posibilidad de consultar en todo momento las plazas disponibles, evitándole pérdidas de tiempo en la busqueda de parqueadero.
 
-
-### Backlog
+### Product Backlog
 |Id            |Nombre                        |
 |--------------|------------------------------|
 |[BGP-6](https://paularoje.atlassian.net/browse/BGP-6?atlOrigin=eyJpIjoiYzgwYTQ0ZjEyNzQzNGJhN2JmNjEyZTM0NmRhZWZhNjIiLCJwIjoic2hlZXRzLWppcmEifQ)|Como cliente quiero visualizar las plazas disponibles para saber si puedo ir a ese parqueadero|
@@ -39,34 +38,23 @@ Facilitar la gestión de plazas de parqueadero no solo al vigilante en el cálcu
 |[BGP-12](https://paularoje.atlassian.net/browse/BGP-12?atlOrigin=eyJpIjoiYzgwYTQ0ZjEyNzQzNGJhN2JmNjEyZTM0NmRhZWZhNjIiLCJwIjoic2hlZXRzLWppcmEifQ)|Como vigilante quiero poder generar un ticket de salida con el tiempo y el costo generado del parqueo para darselo al cliente|
 
 ### Evidencias de participación del equipo
-[Screenshot de la Reunión 1 - Sprint 1](Reunión1-Sprint1.jpeg)
+[Screenshot de la Reunión 1 - Sprint 1](Evidencias de reuniones/Reunión1-Sprint1.jpeg)
 
 
 
 ## SPRINT 2 - Definiendo los objetivos del proyecto
 
-
 ### Diagrama de clases 
-![diagrama](https://user-images.githubusercontent.com/90294992/141039598-c1744f8f-b8a4-4061-8905-48ecc3638884.jpg)
-
+![trabajo drawio (1)](https://user-images.githubusercontent.com/93130943/142201181-9e01f1d6-9c1f-4978-ab22-8011067e8c5e.png)
 
 ### Wireframe
-[wireframe 1 - Parking4](wireframe.jpeg)
+![wireframe](https://user-images.githubusercontent.com/93130943/142194518-c35f9349-ff74-449a-8bbe-f2475a9f9017.jpeg)
 
 [wireframe 2 - Parking4](https://correouisedu-my.sharepoint.com/:w:/g/personal/maria_rodriguez24_correo_uis_edu_co/EdWzNoQ87tJLs8uK_Bv7PDUBtirfhe5rbWM2kIR_XhXsqA)
 
-### Evidencias de la instalación de Angular y Angular Material
-![EvidenciaAngular](https://user-images.githubusercontent.com/93130943/141044598-92bc2af8-310f-4894-abb1-cf5e77ecdab5.png)
-![EvidenciaAngularMaterial](https://user-images.githubusercontent.com/93130943/141044600-fe07332d-f270-47a1-80c1-fe07c1bc79c8.png)
-
-### Instalacion de  Node js
-![NodejsConsole](https://user-images.githubusercontent.com/93629373/141038510-7f9fec6a-9b7d-4020-b226-e9d31da1ea24.jpeg)
-![NodejsOrdenador](https://user-images.githubusercontent.com/93629373/141038516-6d1812f6-3ff5-4e4f-9def-21c4f82e7503.jpeg)
-=======
-### Instalacion de Robo 3T
-![image](https://user-images.githubusercontent.com/93149762/141041155-fea0998d-2403-4323-a01b-b5ee8f756632.png)
+### Instalaciones
+[Evidencia de instalaciones](\Evidencias de instalaciones)
 
 ### Evidencias de participación del equipo
-[Screenshot de la Reunión 2 - Sprint 2](Reunión2-Sprint2.jpeg)
-
-Evidencias reunión 09nov2021![WhatsApp Image 2021-11-09 at 20 55 52](https://user-images.githubusercontent.com/93131699/141037729-b9cf38e6-3c86-44fd-a12d-47787ac3036e.jpeg)
+[Screenshot de la Reunión 2 - Sprint 2](Evidencias de reuniones/Reunión2-Sprint2.jpeg)
+[Screenshot de la Reunión 3 - Sprint 2](Evidencias de reuniones/Reunión3-Sprint2.jpeg)
