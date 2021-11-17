@@ -2,6 +2,7 @@
 
 A continuación se detalla la información del proyecto sobre el desarrollo del sitio web Parking4:
 
+
 ## SPRINT 1 - Definiendo los objetivos del proyecto
 
 ### Roles
@@ -38,8 +39,7 @@ Facilitamos la gesión de plazas de tu parqueadero, no solo para el cálculo del
 |[BGP-12](https://paularoje.atlassian.net/browse/BGP-12?atlOrigin=eyJpIjoiYzgwYTQ0ZjEyNzQzNGJhN2JmNjEyZTM0NmRhZWZhNjIiLCJwIjoic2hlZXRzLWppcmEifQ)|Como vigilante quiero poder generar un ticket de salida con el tiempo y el costo generado del parqueo para darselo al cliente|
 
 ### Evidencias de participación del equipo
-[Screenshot de la Reunión 1 - Sprint 1](Evidencias de reuniones/Reunión1-Sprint1.jpeg)
-
+[Screenshot de la Reunión 1 - Sprint 1](https://github.com/Paularoje/Parking4/blob/31aa799692a25620e0a6151bed7615bf5c3ac509/Evidencias%20de%20reuniones/Reuni%C3%B3n1-Sprint1.jpeg)
 
 
 ## SPRINT 2 - Definiendo los objetivos del proyecto
@@ -53,8 +53,8 @@ Facilitamos la gesión de plazas de tu parqueadero, no solo para el cálculo del
 [wireframe 2 - Parking4](https://correouisedu-my.sharepoint.com/:w:/g/personal/maria_rodriguez24_correo_uis_edu_co/EdWzNoQ87tJLs8uK_Bv7PDUBtirfhe5rbWM2kIR_XhXsqA)
 
 ### Instalaciones
-[Evidencia de instalaciones](https://github.com/Paularoje/Parking4/codeql/blob/main/Evidencias de instalaciones/)
+[Evidencia de instalaciones](Parking4/Evidencias de instalaciones/)
 
 ### Evidencias de participación del equipo
-[Screenshot de la Reunión 2 - Sprint 2](Evidencias de reuniones/Reunión2-Sprint2.jpeg)
-[Screenshot de la Reunión 3 - Sprint 2](Evidencias de reuniones/Reunión3-Sprint2.jpeg)
+[Screenshot de la Reunión 2 - Sprint 2](https://github.com/Paularoje/Parking4/blob/31aa799692a25620e0a6151bed7615bf5c3ac509/Evidencias%20de%20reuniones/Reuni%C3%B3n2-Sprint2.jpeg)
+[Screenshot de la Reunión 3 - Sprint 2](https://github.com/Paularoje/Parking4/blob/31aa799692a25620e0a6151bed7615bf5c3ac509/Evidencias%20de%20reuniones/Reuni%C3%B3n3-Sprint2.jpeg)
