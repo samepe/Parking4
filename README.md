@@ -38,7 +38,7 @@ Facilitamos la gesión de plazas de tu parqueadero, no solo para el cálculo del
 |[BGP-12](https://paularoje.atlassian.net/browse/BGP-12?atlOrigin=eyJpIjoiYzgwYTQ0ZjEyNzQzNGJhN2JmNjEyZTM0NmRhZWZhNjIiLCJwIjoic2hlZXRzLWppcmEifQ)|Como vigilante quiero poder generar un ticket de salida con el tiempo y el costo generado del parqueo para darselo al cliente|
 
 ### Evidencias de participación del equipo
-[Screenshot de la Reunión 1 - Sprint 1](Evidencias de reuniones/Reunión1-Sprint1.jpeg)
+[Screenshot de la Reunión 1 - Sprint 1](Reunión1-Sprint1.jpeg)
 
 
 
