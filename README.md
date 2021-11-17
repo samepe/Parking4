@@ -45,7 +45,8 @@ Facilitamos la gesión de plazas de tu parqueadero, no solo para el cálculo del
 ## SPRINT 2 - Definiendo los objetivos del proyecto
 
 ### Diagrama de clases 
-![trabajo drawio (1)](https://user-images.githubusercontent.com/93130943/142201181-9e01f1d6-9c1f-4978-ab22-8011067e8c5e.png)
+![DiagramaDeClases](https://user-images.githubusercontent.com/93130943/142205331-4238d963-d382-458f-953b-9ca526f84b1e.jpg)
+
 
 ### Wireframe
 wireframe 1 - Parking4:
@@ -60,3 +61,20 @@ wireframe 1 - Parking4:
 [Screenshot de la Reunión 2 - Sprint 2](https://github.com/Paularoje/Parking4/blob/31aa799692a25620e0a6151bed7615bf5c3ac509/Evidencias%20de%20reuniones/Reuni%C3%B3n2-Sprint2.jpeg)
 
 [Screenshot de la Reunión 3 - Sprint 2](https://github.com/Paularoje/Parking4/blob/31aa799692a25620e0a6151bed7615bf5c3ac509/Evidencias%20de%20reuniones/Reuni%C3%B3n3-Sprint2.jpeg)
+
+## SPRINT 3 - Configurando el backend
+
+### 1. Redefinición del diagrama de clases planteado en el sprint 2.
+![trabajo drawio (1)](https://user-images.githubusercontent.com/93130943/142201181-9e01f1d6-9c1f-4978-ab22-8011067e8c5e.png)
+
+### 2. Configuración de la estructura básica del Backend del proyecto, usando los comandos adecuados para cada proceso.
+
+### 3. Instalación y configuración de las dependencias necesarias para trabajar con MongoDB, Express, JSON, etc.
+
+### 4. Implementación de los Modelos y Controladores en Backend del proyecto.
+
+### 5. Creación de las rutas que permiten realizar las principales tareas con la base de datos y se han identificado previamente en los wireframes como Crear, Actualizar, Eliminar y Buscar.
+
+### 6. Pruebas de las rutas usando Postman.
+
+### 7. Evidencias de participación del equipo
