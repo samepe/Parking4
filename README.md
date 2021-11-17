@@ -53,8 +53,9 @@ Facilitamos la gesión de plazas de tu parqueadero, no solo para el cálculo del
 [wireframe 2 - Parking4](https://correouisedu-my.sharepoint.com/:w:/g/personal/maria_rodriguez24_correo_uis_edu_co/EdWzNoQ87tJLs8uK_Bv7PDUBtirfhe5rbWM2kIR_XhXsqA)
 
 ### Instalaciones
-[Evidencia de instalaciones](Parking4/Evidencias de instalaciones/)
+[Evidencia de instalaciones](https://github.com/Paularoje/Parking4/tree/main/Evidencias%20de%20instalaciones)
 
 ### Evidencias de participación del equipo
 [Screenshot de la Reunión 2 - Sprint 2](https://github.com/Paularoje/Parking4/blob/31aa799692a25620e0a6151bed7615bf5c3ac509/Evidencias%20de%20reuniones/Reuni%C3%B3n2-Sprint2.jpeg)
+
 [Screenshot de la Reunión 3 - Sprint 2](https://github.com/Paularoje/Parking4/blob/31aa799692a25620e0a6151bed7615bf5c3ac509/Evidencias%20de%20reuniones/Reuni%C3%B3n3-Sprint2.jpeg)
