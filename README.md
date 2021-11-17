@@ -48,6 +48,7 @@ Facilitamos la gesión de plazas de tu parqueadero, no solo para el cálculo del
 ![trabajo drawio (1)](https://user-images.githubusercontent.com/93130943/142201181-9e01f1d6-9c1f-4978-ab22-8011067e8c5e.png)
 
 ### Wireframe
+wireframe 1 - Parking4:
 ![wireframe](https://user-images.githubusercontent.com/93130943/142194518-c35f9349-ff74-449a-8bbe-f2475a9f9017.jpeg)
 
 [wireframe 2 - Parking4](https://correouisedu-my.sharepoint.com/:w:/g/personal/maria_rodriguez24_correo_uis_edu_co/EdWzNoQ87tJLs8uK_Bv7PDUBtirfhe5rbWM2kIR_XhXsqA)
