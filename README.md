@@ -78,6 +78,7 @@ wireframe 1 - Parking4:
 ### 6. Pruebas de las rutas usando Postman.
 
 ### 7. Evidencias de participación del equipo
+[Screenshot de la Reunión 4 - Sprint 3](https://github.com/Paularoje/Parking4/blob/1f7bd6645627e29f1490073b02927f3f54ecba7a/Evidencias%20de%20reuniones/Reuni%C3%B3n4-Sprint3.jpeg)
 
 ## SPRINT 4 - Desarrollando el Frontend
 
