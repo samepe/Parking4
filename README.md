@@ -78,3 +78,19 @@ wireframe 1 - Parking4:
 ### 6. Pruebas de las rutas usando Postman.
 
 ### 7. Evidencias de participación del equipo
+
+## SPRINT 4 - Desarrollando el Frontend
+
+### 1.Elabore con algún medio una gráfico (corel, papel, etc) los wireframes del aplicativo.
+
+### 2.Identifique con su equipo de trabajo los módulos o componentes a implementar en su arquitectura Frontend.
+
+### 3.Configure la estructura básica del Frontend, para dar inicio al proyecto.
+
+### 4.Implemente los Modelos y Controladores planeados en el  Frontend del proyecto.
+
+### 5.Cree las funcionalidades asociadas a los módulos de  Crear, Actualizar, Eliminar y Buscar.
+
+### 6.Realice pruebas unitarias de la herramienta  y de integración con el backend implementado en el Sprint 3.
+
+### 7. Evidencias de participación del equipo
