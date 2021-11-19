@@ -65,7 +65,7 @@ wireframe 1 - Parking4:
 ## SPRINT 3 - Configurando el backend
 
 ### 1. Redefinición del diagrama de clases planteado en el sprint 2.
-![trabajo drawio (1)](https://user-images.githubusercontent.com/93130943/142201181-9e01f1d6-9c1f-4978-ab22-8011067e8c5e.png)
+
 
 ### 2. Configuración de la estructura básica del Backend del proyecto, usando los comandos adecuados para cada proceso.
 
@@ -79,6 +79,8 @@ wireframe 1 - Parking4:
 
 ### 7. Evidencias de participación del equipo
 [Screenshot de la Reunión 4 - Sprint 3](https://github.com/Paularoje/Parking4/blob/1f7bd6645627e29f1490073b02927f3f54ecba7a/Evidencias%20de%20reuniones/Reuni%C3%B3n4-Sprint3.jpeg)
+
+[Screenshot de la Reunión 5 - Sprint 3](https://github.com/Paularoje/Parking4/blob/7b88122791b8d8d200a2959c075e1cb34ee8ef28/Evidencias%20de%20reuniones/Reuni%C3%B3n5-Sprint3.jpeg)
 
 ## SPRINT 4 - Desarrollando el Frontend
 
