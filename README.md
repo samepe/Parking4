@@ -65,7 +65,7 @@ wireframe 1 - Parking4:
 ## SPRINT 3 - Configurando el backend
 
 ### 1. Redefinición del diagrama de clases planteado en el sprint 2.
-![Untitled Diagram drawio](https://user-images.githubusercontent.com/93130943/142728422-45c3245b-4fad-4b66-bd35-16c663165775.png)
+![Untitled Diagram drawio (1)](https://user-images.githubusercontent.com/93130943/142728478-8d96daac-7088-48c3-88aa-4963506a328f.png)
 
 ### 2. Configuración de la estructura básica del Backend del proyecto, usando los comandos adecuados para cada proceso.
 
