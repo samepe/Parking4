@@ -16,7 +16,7 @@ Content-Type: application/json
 GET http://localhost:4000/api/parking/6197a1a2162aeaefeb0a0f96
 
 ###
-DELETE http://localhost:4000/api/parking/6197a1a2162aeaefeb0a0f96
+DELETE http://localhost:4000/api/parking/61986c7c6c71f9a4a887503b
 
 ###
 PUT http://localhost:4000/api/parking/6197aa08404f7e08958108ef
