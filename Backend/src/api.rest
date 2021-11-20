@@ -1,0 +1,27 @@
+###
+GET http://localhost:4000/api/parking
+
+###
+POST http://localhost:4000/api/parking
+Content-Type: application/json
+
+{
+    "id_servicio": "2",
+    "tipo": "carro",
+    "placa": "DCU980",
+    "salida": "si"
+}
+
+###
+GET http://localhost:4000/api/parking/6197a1a2162aeaefeb0a0f96
+
+###
+DELETE http://localhost:4000/api/parking/6197a1a2162aeaefeb0a0f96
+
+###
+PUT http://localhost:4000/api/parking/6197aa08404f7e08958108ef
+Content-Type: application/json
+
+{
+    "placa": "BRS390"
+}
