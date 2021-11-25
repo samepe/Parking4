@@ -98,3 +98,6 @@ wireframe 1 - Parking4:
 ### 6.Realice pruebas unitarias de la herramienta  y de integración con el backend implementado en el Sprint 3.
 
 ### 7. Evidencias de participación del equipo
+
+
+Se realizó el commit del Backend, Frontend y CRUD.
